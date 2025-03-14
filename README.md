@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielKHGLars
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on senior project
+- 💞️ I’m looking to collaborate on game jam
 - 📫 How to reach me Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
